@@ -1,1 +1,3 @@
-bin/ gen/
+# Generated files
+bin/
+gen/
